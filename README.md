@@ -5,6 +5,9 @@ Alaska is the largest state in the US and plane fligths to communities outside o
 My friend, Samuel Johns started the [Forget-me-not FB group](https://www.facebook.com/groups/1607335859320104/) to place images of homeless people (who opt in) with messages to their relatives and friends. 
 In less than two weeks it has over 4500+ members and has helped reconnect people. 
 
+[KTUU Video Story](http://www.ktuu.com/news/news/facebook-group-works-to-connect-homeless-with-families/33623714)
+[ADN Story](http://www.adn.com/article/20150616/facebook-group-becomes-way-homeless-connect-loved-ones-back-home)
+
 Samuel asked if we had any ideas for improving the site or expanding it.
 
 Initial ideas:
