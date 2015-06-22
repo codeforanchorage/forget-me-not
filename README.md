@@ -13,7 +13,7 @@ Samuel asked if we had any ideas for improving the site or expanding it.
 
 Initial ideas:
 
-1. Put the images and messages on a map by location of where the person is orginally from or has lived. Could do easily with CartoDB. Can we automate the process? How do we make it sustainable as it grows.  
+1. Put the images and messages on a map by location of where the person is orginally from or has lived. Could do easily with CartoDB. Can we automate the process? How do we make it sustainable as it grows. Code for Boston's [finda](https://github.com/codeforboston/finda). [CartaCrowd](http://cartocrowd.herokuapp.com/)
 2. Using Twitter, Instagram and other social media to spread the images and messages. Twitterbot.
 3. Set up appointments for people to facetime or skype with relatives. 
 
