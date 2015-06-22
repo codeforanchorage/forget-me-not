@@ -6,6 +6,7 @@ My friend, Samuel Johns started the [Forget-me-not FB group](https://www.faceboo
 In less than two weeks it has over 4500+ members and has helped reconnect people. 
 
 [KTUU Video Story](http://www.ktuu.com/news/news/facebook-group-works-to-connect-homeless-with-families/33623714)
+
 [ADN Story](http://www.adn.com/article/20150616/facebook-group-becomes-way-homeless-connect-loved-ones-back-home)
 
 Samuel asked if we had any ideas for improving the site or expanding it.
