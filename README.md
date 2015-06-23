@@ -2,6 +2,8 @@
 Tech ideas for Facebook Forget-me-not group that helps AK homelesess connect with remote family members.
 Alaska is the largest state in the US and plane fligths to communities outside of Anchorage, Fairbanks and Juneau can easily be over $500. 
 
+[Rough CartoDB version](http://cdb.io/1K7IjpI)
+
 My friend, Samuel Johns started the [Forget-me-not FB group](https://www.facebook.com/groups/1607335859320104/) to place images of homeless people (who opt in) with messages to their relatives and friends. 
 In less than two weeks it has over 4500+ members and has helped reconnect people. 
 
